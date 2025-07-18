@@ -6,7 +6,7 @@
 
 ## 👨‍💻 about me
 
-<img align="right" src="https://raw.githubusercontent.com/LuanGabrielMelo/LuanGabrielMelo/main/anime-luan.png" width="300px" />
+<img align="right" src="https://github.com/LuanGabrielMelo/redemeLuanMelo/blob/main/anime-luan.png" width="300px" />
 
 **Computer Engineering** student (7th semester) passionate about technology and innovation. I currently work as an **IT Intern at Elétrica Bahiana**, where I develop practical solutions combining technical support and web application development with the help of AI.
 
