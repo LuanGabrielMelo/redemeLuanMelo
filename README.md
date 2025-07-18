@@ -14,27 +14,27 @@ I have solid experience in technical support (hardware/software) and data analys
 
 ---
 
-### 💼 Experiência Profissional
+### 💼 Professional Experience
 
-**🔧 Estagiário de TI** | _Elétrica Bahiana_
+**🔧 IT Intern** | _Elétrica Bahiana_
 
--   🖥️ Suporte técnico completo (hardware e software)
--   🗃️ Consultas e análises avançadas em banco de dados Oracle
--   🤖 Desenvolvimento de aplicações web com assistência de IA
--   📊 Resolução de demandas internas e otimização de processos
-
----
-
-## 🎓 Formação Acadêmica
-
-**Engenharia da Computação** | 7º Semestre  
-_Focado em desenvolvimento de software, sistemas embarcados e análise de dados_
+-   🖥️ Full technical support (hardware and software)
+-   🗃️ Advanced queries and analysis in Oracle databases
+-   🤖 AI-assisted web application development
+-   📊 Resolution of internal demands and process optimization
 
 ---
 
-## 🛠️ Skills & Tecnologias
+## 🎓 Academic Background
 
-### **Linguagens de Programação**
+**Computer Engineering** | 7th Semester
+_Focused on software development, embedded systems and data analysis_
+
+---
+
+## 🛠️ skills & technologies
+
+### **Programming Languages**
 
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -49,7 +49,7 @@ _Focado em desenvolvimento de software, sistemas embarcados e análise de dados_
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-### **Banco de Dados & Analytics**
+### **Database and Analytics**
 
 <div style="display: inline_block">
   <img align="center" alt="Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
@@ -59,28 +59,28 @@ _Focado em desenvolvimento de software, sistemas embarcados e análise de dados_
 
 ### **Áreas de Expertise**
 
--   🔧 **Suporte Técnico:** Hardware/Software troubleshooting
--   💻 **Desenvolvimento Web:** Aplicações com IA integration
--   📊 **Análise de Dados:** Oracle queries e relatórios
--   🤖 **IA Assistida:** Desenvolvimento com ferramentas de IA
+-   🔧 **Technical Support:** Hardware/Software troubleshooting
+-   💻 **Web Development:** Applications with AI integration
+-   📊 **Data Analysis:** Oracle queries and reports
+-   🤖 **Assisted AI:** Development with AI tools
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-🔜 **Portfólio em construção** - Projetos profissionais e acadêmicos serão adicionados em breve!
+🔜 **Portfolio under construction** - Professional and academic projects will be added soon!
 
-_💡 Trabalhando em soluções inovadoras na Elétrica Bahiana e projetos pessoais de desenvolvimento web_
+_💡 Working on innovative solutions at Elétrica Bahiana and personal web development projects_
 
 ---
 
-## 🎯 Objetivos Atuais
+## 🎯 Current Objectives
 
--   🎨 Aprofundar conhecimentos em **React.js** e **Node.js**
--   📈 Expandir expertise em **análise de dados** com Python
--   🌐 Desenvolver projetos **full-stack** completos
--   🤝 Contribuir para projetos **open source**
--   🏆 Concluir a graduação com excelência
+-   🎨 Deepen your knowledge of **React.js** and **Node.js**
+-   📈 Expand expertise in **data analysis** with Python
+-   🌐 Develop complete **full-stack** projects
+-   🤝 Contribute to **open source** projects
+-   🏆 Complete your degree with excellence
 
 ---
 
@@ -104,17 +104,17 @@ _💡 Trabalhando em soluções inovadoras na Elétrica Bahiana e projetos pesso
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGabrielMelo&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-## ⚡ Curiosidades
+## ⚡Curiosities
 
--   🍳 **Paixão pela culinária** - Sempre experimentando receitas novas
--   🎵 **Música** - Relaxamento e inspiração para programar
--   🥊 **Boxe** - Disciplina e foco que aplico no código
--   🇺🇸 **Inglês** - Constantemente aprimorando para expandir oportunidades
--   💡 **IA & Tecnologia** - Fascinado pelas possibilidades da inteligência artificial
+-   🍳 **Passion for cooking** - Always trying new recipes
+-   🎵 **Music** - Relaxation and inspiration for programming
+-   🥊 **Boxing** - Discipline and focus that I apply to the code
+-    US **English** - Constantly improving to expand opportunities
+-   💡 **AI and Technology** - Fascinated by the possibilities of artificial intelligence
 
 ---
 
-## 📫 Vamos Conectar?
+## 📫 Let's Connect?
 
 <div align="center">
   
@@ -128,9 +128,9 @@ _💡 Trabalhando em soluções inovadoras na Elétrica Bahiana e projetos pesso
 
 <div align="center">
   
-  *"A tecnologia move o mundo, mas são as pessoas que movem a tecnologia."*
+  *"Technology moves the world, but it is people who move technology."*
   
-  **💻 Sempre aberto para colaborações e novos desafios! 🚀**
+  **💻Always open to collaborations and new challenges! 🚀**
   
 </div>
 
