@@ -100,13 +100,11 @@ _💡 Working on innovative solutions at Elétrica Bahiana and personal web deve
 
 ### **🤖🗣linguas ultilizadas:**
 
-<div align="center"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGabrielMelo&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
 
-  <div>
+
+  <div align= "center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanGabrielMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGabrielMelo&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em"  style="margin-left: 25px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGabrielMelo&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
 
