@@ -104,6 +104,12 @@ _💡 Working on innovative solutions at Elétrica Bahiana and personal web deve
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGabrielMelo&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanGabrielMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGabrielMelo&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
+
 ## ⚡Curiosities
 
 -   🍳 **Passion for cooking** - Always trying new recipes
