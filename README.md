@@ -87,7 +87,7 @@ _💡 Working on innovative solutions at Elétrica Bahiana and personal web deve
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanGabrielMelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanGabrielMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
@@ -103,7 +103,6 @@ _💡 Working on innovative solutions at Elétrica Bahiana and personal web deve
 
 
   <div align= "center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanGabrielMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em"  style="margin-left: 25px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGabrielMelo&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
