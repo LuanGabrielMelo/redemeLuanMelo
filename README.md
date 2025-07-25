@@ -97,6 +97,16 @@ _💡 Working on innovative solutions at Elétrica Bahiana and personal web deve
 </div>
 
 ---
+### commits :
+
+
+<picture align="center">
+  <source align="center"  media="(prefers-color-scheme: dark)" srcset="https://github.com/LuanGabrielMelo/redemeLuanMelo/blob/output/github-contribution-grid-snake-dark.svg">
+  <source align="center"  media="(prefers-color-scheme: light)" srcset="https://github.com/LuanGabrielMelo/redemeLuanMelo/blob/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://github.com/LuanGabrielMelo/redemeLuanMelo/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+
 
 ### **🤖🗣linguas ultilizadas:**
 
