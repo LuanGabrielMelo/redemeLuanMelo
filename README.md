@@ -68,9 +68,9 @@ _Focused on software development, embedded systems and data analysis_
 
 ## 🚀 Featured Projects
 
-🔜 **Portfolio under construction** - Professional and academic projects will be added soon!
+  - 🔜 **Portfolio under construction** - Professional and academic projects will be added soon!
 
-_💡 Working on innovative solutions at Elétrica Bahiana and personal web development projects_
+  - 💡 Working on innovative solutions at Elétrica Bahiana and personal web development projects_
 
 ---
 
@@ -87,14 +87,10 @@ _💡 Working on innovative solutions at Elétrica Bahiana and personal web deve
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanGabrielMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
----
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanGabrielMelo&theme=tokyonight" alt="GitHub Streak"/>
 </div>
+
+
 
 ---
 ### commits :
