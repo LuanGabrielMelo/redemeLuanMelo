@@ -87,7 +87,7 @@ _Focused on software development, embedded systems and data analysis_
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanGabrielMelo&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=LuanGabrielMelo&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 
